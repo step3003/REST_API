@@ -1,4 +1,4 @@
-<h1>My project REST_AP on laravel</h1>
+<h1>My project REST_API on laravel</h1>
 <h2>My project's tasks:</h2>
 <ol> 
     <li>Learn working with REST API on Laravel</li>
